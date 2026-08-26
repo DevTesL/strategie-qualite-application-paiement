@@ -1,0 +1,1 @@
+# strategie-qualite-application-paiement
